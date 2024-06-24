@@ -1,0 +1,8 @@
+transaction_id,date,category,amount
+TRX001,2024-06-01,Food,25.00
+TRX002,2024-06-01,Utilities,150.00
+TRX003,2024-06-01,Entertainment,200.00
+TRX004,2024-06-02,Food,3000.00  # Anomalous high amount
+TRX005,2024-06-02,Transport,45.00
+TRX006,2024-06-03,Utilities,135.00
+TRX007,2024-06-03,Food,20.00
